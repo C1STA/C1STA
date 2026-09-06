@@ -11,6 +11,11 @@ Currently looking for a software engineering internship where I can contribute
 to backend, systems, or full-stack projects.
 
 <p>
+  <a href="mailto:walid.cista@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Walid Cista"></a>
+  <a href="https://www.linkedin.com/in/walid-cista/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Walid Cista on LinkedIn"></a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
