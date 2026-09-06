@@ -2,7 +2,7 @@
 
 # Hi, I'm Walid
 
-**Software developer and student at 42 Paris**
+**Software developer and student at [42 Paris](https://42.fr/)**
 
 I build software from low-level systems and network services to modern,
 full-stack web applications.
